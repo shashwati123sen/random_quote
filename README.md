@@ -1,6 +1,4 @@
-Sure! Here's a clean and professional `README.md` for your Random Quote Generator app using Firebase Firestore:
 
-```markdown
 # Random Quote Generator App
 
 A simple Flutter app that generates random quotes fetched and saved using Firebase Firestore.  
